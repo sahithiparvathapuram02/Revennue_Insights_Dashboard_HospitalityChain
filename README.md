@@ -150,3 +150,4 @@ RevPAR = DIVIDE([Revenue],[Total Capacity])
 
 Revenue = sum(fact_bookings[revenue_realized])
 
+Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiOWEwOGM4ZTUtMzI3MC00MTIxLTkyMzgtODIwYmFlZGJjNTZhIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9
